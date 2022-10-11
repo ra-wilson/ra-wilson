@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ra-wilson
-- 👀 I’m interested in backend development with ruby-on-rails and advancing my frontend skills with HTML, CSS AND JS.
-- 🌱 I’m currently learning ruby-on-rails, CSS and JavaScript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - Twiiter: @reeceawils
+- 👋 Hi, I’m Reece
+- 👀 I’m interested in full stack development with VueJS, NodeJS, ExpressJS, JavaScript, HTML, CSS.
+- 🌱 I’m currently learning Java, NodeJS and VueJS as part of my software engineering degree.
+- 💞️ I’m looking to collaborate on beginner backend projects and intermediate frontend projects using aforementioned technologies.
+- 📫 How to reach me - LinkedIn: Reece Jones
 
 <!---
 ra-wilson/ra-wilson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
