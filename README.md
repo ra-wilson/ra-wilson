@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Reece
-- 👀 I’m interested in full stack development with VueJS, React, NodeJS, ExpressJS, JavaScript, HTML, CSS.
-- 🌱 I’m currently learning Java, NodeJS and VueJS as part of my software engineering degree.
-- 💞️ I’m looking to collaborate on beginner backend projects and intermediate frontend projects using aforementioned technologies.
+- 👀 I’m interested in full stack development.
+- 🌱 I currently hold professional experience with Java, TypeScript and React.
 - 📫 How to reach me - LinkedIn: Reece Jones
 
 <!---
